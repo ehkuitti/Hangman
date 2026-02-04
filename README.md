@@ -3,6 +3,7 @@
 <img width="405" height="371" alt="kuva" src="https://github.com/user-attachments/assets/c796ad35-b920-4562-a9e3-59aee34f9221" />
 
 
+
 This game is a Python implementation of the game classic "The Hangman". This
 implementation is developed using Python 3.10 with tkinter in the front-end.
 
